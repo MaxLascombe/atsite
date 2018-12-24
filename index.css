@@ -1,0 +1,26 @@
+.parallax {
+  width: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
+.hex-resize{
+  color: #bb380d;
+  }
+
+.hex-resize-heading {
+  color: #bb380d;
+  font-family: "LoveloBlack", Arial Black, sans-serif;
+
+  }
+.hex-resize-p {
+  color: #bb380d;
+  font-family: LoveloBlack;
+  }
+
+@font-face {
+      font-family: "LoveloBlack";
+      src: local('Lovelo_Black.otf') format('opentype');
+  }
